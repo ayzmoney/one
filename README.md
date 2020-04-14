@@ -1,46 +1,42 @@
-## Hello Visitor!
+# Hello Visitor!
 
 This is my first github page, so please tolerate flaws (haha). 
 Click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to see me.
 
-### *Why* Am I Doing A Github Page?
+## *Why* Am I Doing A Github Page?
 
-- its cool
-- i can learn 
-1. Writing 
-2. Coding
+- its dope
+- i can learn writing + html
+
+## Should `You` Do It?
+
+- try it :)
+
+pic of me
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg/800px-South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## So, Want to Know Me?
 
 ```markdown
-Syntax highlighted code block
+Im a student.
+Im cool. Cooler than you aHA.
 
-wee wee
-# Header 1
-## Header 2
-### Header 3
+Fun facts?
+1. Im bored
+2. Im boring..
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+### Here is Another
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Trait | Score
+------|------
+insanity | 3/10
+hideosity | 7/10
 
-### Jekyll Themes
+## Pop Quiz
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ayzmoney/one/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Who's the awesome-est guy?
+[Answer](https://image.freepik.com/free-photo/smiling-handsome-business-man-pointing-you_1262-5655.jpg)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+That's it for the moment, see ya!
