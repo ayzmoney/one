@@ -12,17 +12,15 @@ Click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to see me.
 
 - try it :)
 
-pic of me
+pic of me :kissing_heart:
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg/800px-South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg)
 
 ## So, Want to Know Me?
 
-[x] Student
-[x] Cool. Cooler than you aHA.
-[ ] Succesful
-
 ```markdown
+Im a Student.
+Im cool. Cooler than you aHa.
 
 Fun facts?
 1. Im bored
@@ -39,6 +37,9 @@ hideosity | 7/10
 ## Pop Quiz
 
 Who's the awesome-est guy?
+
 [Answer](https://image.freepik.com/free-photo/smiling-handsome-business-man-pointing-you_1262-5655.jpg)
 
 That's it for the moment, see ya!
+
+**p/s siapa je akan baca hahah** :relieved:
