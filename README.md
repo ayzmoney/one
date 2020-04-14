@@ -1,6 +1,6 @@
 # Hello Visitor!
 
-This is my first github page, so please tolerate my flaws (haha). This is only html, no css.
+This is my first github page, so please tolerate my flaws (haha). This is html with a theme, no css.
 
 Click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to see me.
 
@@ -21,7 +21,7 @@ if (YouAreBored){
 
 ## So, Want to Know Me?
 
-[Pic of me :kissing_heart:](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg/800px-South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg)
+[Pic of me](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg/800px-South_Shetland-2016-Deception_Island%E2%80%93Chinstrap_penguin_%28Pygoscelis_antarctica%29_04.jpg)
 
 ```markdown
 Im a Student.
@@ -47,4 +47,4 @@ Who's the awesome-est guy?
 
 That's it for the moment, see ya!
 
-**p/s siapa je akan baca hahah** :relieved:
+**p/s siapa je akan baca hahah**
