@@ -6,14 +6,14 @@ Click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to see me.
 
 ## *Why* Am I Doing A Github Page?
 
-- > Its dope
+- Its dope
 - I can learn writing + html
 
 ## Should `You` Do It?
 
 ```javascript
 if (YouAreBored){
-  tryit
+  tryit();
 }
 ```
 
@@ -45,6 +45,7 @@ Who's the awesome-est guy?
 
 [Answer](https://image.freepik.com/free-photo/smiling-handsome-business-man-pointing-you_1262-5655.jpg)
 
-That's it for the moment, see ya!
+> That's it for the moment, see ya!
+> -me
 
 **p/s siapa je akan baca hahah** :relieved:
