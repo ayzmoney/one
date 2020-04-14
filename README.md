@@ -6,12 +6,16 @@ Click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to see me.
 
 ## *Why* Am I Doing A Github Page?
 
-- its dope
-- i can learn writing + html
+- > Its dope
+- I can learn writing + html
 
 ## Should `You` Do It?
 
-- try it :)
+```javascript
+if (YouAreBored){
+  tryit
+}
+```
 
 ## So, Want to Know Me?
 
