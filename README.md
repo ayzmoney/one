@@ -3,7 +3,7 @@
 This is my first github page, so please tolerate flaws (haha). 
 Click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to see me.
 
-### **Why** Am I Doing A Github Page?
+### *Why* Am I Doing A Github Page?
 
 - its cool
 - i can learn 1. Writing 2. Coding
