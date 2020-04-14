@@ -1,6 +1,6 @@
 # Hello Visitor!
 
-This is my first github page, so please tolerate my flaws (haha). This is html with a theme, no css.
+This is my first github page, so please tolerate my flaws (haha).
 
 Click [here](https://www.youtube.com/watch?v=dQw4w9WgXcQ) to see me.
 
