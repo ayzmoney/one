@@ -18,10 +18,11 @@ pic of me
 
 ## So, Want to Know Me?
 
-```markdown
 [x] Student
 [x] Cool. Cooler than you aHA.
 [ ] Succesful
+
+```markdown
 
 Fun facts?
 1. Im bored
